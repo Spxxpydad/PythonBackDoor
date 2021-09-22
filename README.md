@@ -1,2 +1,2 @@
 # PythonBackDoor
-This Is A Python BackDoor That Downloads A Bat Script From What Ever Server You Put It On
+This Is A Python BackDoor That Downloads A Bash Script From What Ever Server You Put It On
